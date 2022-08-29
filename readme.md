@@ -9,6 +9,6 @@
 
 &nbsp;
 
-![project_1 logo](./5.PNG)
+![project_1 logo](https://github.com/RHSrinivas/04-Booktickets-landingpage/blob/main/5.png)
 
 ### I am happy to push my github repository with learning the git concepts.
